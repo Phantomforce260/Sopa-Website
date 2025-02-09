@@ -7,6 +7,23 @@
 		%sveltekit.head%
 	</head>
 	<body data-sveltekit-preload-data="hover">
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+            }
+
+            @font-face {
+                font-family: segoescript;
+                src: url(/fonts/segoescript.ttf);
+            } 
+
+            @font-face {
+                font-family: playwrite-moderne;
+                src: url(/fonts/PlaywriteFRModerne-Light.ttf);
+            }
+        </style>
+
 		<div style="display: contents">%sveltekit.body%</div>
 	</body>
 </html>
