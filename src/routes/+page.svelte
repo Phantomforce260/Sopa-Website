@@ -8,7 +8,7 @@
     h1 {
         font-family: segoescript;
         color: white;
-		font-size: 8vw;
+		font-size: 7vw;
 		line-height: 85%;
 		font-weight: normal;
     }

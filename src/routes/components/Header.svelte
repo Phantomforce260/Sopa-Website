@@ -17,7 +17,7 @@
 		align-items: center;
 		height: 100%;
 		list-style-type: none;
-		font-size: 3vw;
+		font-size: 2.5vw;
 	}
 
 	li {
