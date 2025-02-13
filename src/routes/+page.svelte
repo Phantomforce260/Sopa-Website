@@ -1,42 +1,16 @@
 <style>
     section {
-        background-image: url(./images/background_home.png);
-		background-repeat: repeat;
-		background-size: cover;
+		height: 100vh;
+		overflow-y: scroll;
     }
-
-    h1 {
-        font-family: segoescript;
-        color: white;
-		font-size: 7vw;
-		line-height: 85%;
-		font-weight: normal;
-    }
-
-    p {
-        font-family: playwrite-moderne;
-		font-size: 3vw;
-        color: white;
-    }
-
-	main {
-		display: flex;
-		border: solid black 1px;
-		height: 100svh;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-	}
 </style>
 
 <section>
-	<Header />
-    <main id="main-content">
-        <h1>Bienvenidos!</h1>
-        <p>Check out our Menu.</p>
-    </main>
+	<Hero />
+	<Picks />
 </section>
 
 <script lang="ts">
-	import Header from "./components/Header.svelte"
+	import Hero from "./components/Hero.svelte";
+	import Picks from "./components/Picks.svelte";
 </script>

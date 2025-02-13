@@ -1,7 +1,6 @@
 <style>
 	nav{
 		display: flex;
-		position: absolute;
 		width: 100%;
 		background: rgba(0, 0, 0, 0.4);
 	}
@@ -38,9 +37,9 @@
 	<a id="logo-link" href="./"><img src="./images/Logo.png" alt="Solo Sopas logo"></a>
 	<div class="nav-links">
 		<ul>
-			<li><a href="./about_us/">About Us</a></li>
-			<li><a href="./menu/">Menu</a></li>
-			<li><a href="./opinions/">Opinions</a></li>
+			<li><a href="#about_us">About Us</a></li>
+			<li><a href="#menu">Menu</a></li>
+			<li><a href="#opinions">Opinions</a></li>
 		</ul>
 	</div>
 </nav>
