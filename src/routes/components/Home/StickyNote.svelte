@@ -5,13 +5,18 @@
 
 	div {
 		display: flex;
-		aspect-ratio: 1 / 1;
-		padding: 0.5vw;
-		height: 100%;
+		/*aspect-ratio: 1 / 1;*/
+		padding: 1.2vw;
+		height: 30vw;
+		width: 30vw;
+
+        max-height: 475px;
+        max-width: 450px;
 
 		flex-direction: column;
 		align-items: center;
 		background-color: #fdef96;
+        justify-content: space-between;
 	}
 
 	h4 {
@@ -19,14 +24,16 @@
 	}
 
 	p {
-		font-family: playwrite-moderne;
+        font-family: playwrite-moderne;
+        font-size: 1.2vw;
 	}
 
 	button {
 		background-color: inherit;
 		border: solid black 3px;
-		padding: 1%;
+		padding: 1% 3%;
 		font-family: playwrite-moderne;
+        font-size: 1.2vw;
 	}
 </style>
 

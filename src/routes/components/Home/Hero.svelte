@@ -8,15 +8,15 @@
 	}
 
 	h1 {
-		font-family: segoescript;
+        font-family: segoescript;
+        font-weight: normal;
+        line-height: 85%;
 		color: white;
 		font-size: 7vw;
-		line-height: 85%;
-		font-weight: normal;
 	}
 
 	p {
-		font-family: playwrite-moderne;
+        font-family: playwrite-moderne;
 		font-size: 3vw;
 		color: white;
 	}
@@ -26,8 +26,9 @@
 <main id="main-content">
 	<h1>Bienvenidos!</h1>
 	<p>Check out our Menu.</p>
+
 </main>
 
 <script>
-	import Header from "./Header.svelte";
+	import Header from "../General/Header.svelte";
 </script>
