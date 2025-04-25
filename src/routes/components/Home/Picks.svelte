@@ -19,12 +19,12 @@
         font-size: 6vw;
     }
 
-	div {
-		display: flex;
-		max-width: 100svw;
-		align-items: center;
-		justify-content: space-around;
-	}
+    div {
+        display: flex;
+        max-width: 100svw;
+        align-items: center;
+        justify-content: space-around;
+    }
 </style>
 
 <section>
@@ -40,5 +40,5 @@
 </section>
 
 <script>
-	import StickyNote from "./StickyNote.svelte";
+    import StickyNote from "./StickyNote.svelte";
 </script>
