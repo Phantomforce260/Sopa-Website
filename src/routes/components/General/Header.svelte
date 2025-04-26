@@ -33,9 +33,9 @@
     <a id="logo-link" href="./"><img src="./images/vfx/Logo.png" alt="Solo Sopas logo"></a>
     <div class="nav-links">
         <ul>
-            <li><a href="#about_us">About Us</a></li>
-            <li><a href="#soups">Soups</a></li>
-            <li><a href="#opinions">Opinions</a></li>
+            <li><a href="/pages/about">About Us</a></li>
+            <li><a href="/pages/soups">Soups</a></li>
+            <li><a href="/pages/opinions">Opinions</a></li>
         </ul>
     </div>
 </nav>

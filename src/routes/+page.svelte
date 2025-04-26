@@ -4,14 +4,8 @@
     section {
         height: 100vh;
         overflow-y: scroll;
-        background-image: url(./images/vfx/background_home.png);
+        background-image: url(/images/vfx/background_home.png);
         background-size: cover;
-    }
-
-    h1 {
-    }
-
-    p {
     }
 </style>
 

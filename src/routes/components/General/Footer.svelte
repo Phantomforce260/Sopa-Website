@@ -37,7 +37,7 @@
 <section>
     <div>
         <h1>Follow Us!</h1>
-        <a class="instagram" href="#instagram">
+        <a class="instagram" href="https://www.instagram.com">
             <i class="bx bxl-instagram"></i>
         </a>
     </div>
