@@ -30,7 +30,7 @@
 </style>
 
 <nav>
-    <a id="logo-link" href="./"><img src="./images/vfx/Logo.png" alt="Solo Sopas logo"></a>
+    <a id="logo-link" href="/"><img src="/images/vfx/Logo.png" alt="Solo Sopas logo"></a>
     <div class="nav-links">
         <ul>
             <li><a href="/pages/about">About Us</a></li>
