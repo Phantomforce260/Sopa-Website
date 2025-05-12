@@ -1,3 +1,5 @@
-node_modules/
+bun.lockb
+
 .svelte-kit/
 build/
+node_modules/
