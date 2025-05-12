@@ -23,9 +23,14 @@
     }
 
     a {
-        background-color: rgb(41, 41, 41);
+        background-color: #292929;
         padding: 1vw 1vw 0.25vw 1vw;
         border-radius: 8px;
+        transition: all ease 0.3s;
+    }
+
+    a:hover {
+        background-color: #606060;
     }
 
     .instagram {

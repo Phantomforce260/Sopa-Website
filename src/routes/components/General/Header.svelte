@@ -9,6 +9,7 @@
         font-family: playwrite-moderne;
         text-decoration: none;
         color: white;
+        transition: all ease 0.3s;
     }
 
     ul {
@@ -24,6 +25,10 @@
     img {
         margin-block: 4rem;
         margin-inline: 1rem;
+    }
+
+    li a:hover {
+        color: #FFEB3B
     }
 
     #logo-link { flex-grow: 1; }

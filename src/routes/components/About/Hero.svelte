@@ -5,6 +5,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        text-align: center;
     }
 
     h1 {
@@ -12,22 +13,23 @@
         font-weight: normal;
         line-height: 85%;
         color: white;
-        font-size: 7vw;
+        font-size: 8vw;
     }
 
     p {
         font-family: playwrite-moderne;
-        font-size: 3vw;
+        font-size: 2vw;
         color: white;
     }
 </style>
 
-<Header />
-<main id="main-content">
-    <h1>Bienvenidos!</h1>
-    <p>Check out our Menu.</p>
-</main>
+<main>
+    <div class="about-main">
+        <h1>About Us</h1>
+        <p>We're a small business in Philadelphia.</p>
+    </div>
 
-<script>
-    import Header from "../General/Header.svelte";
-</script>
+    <div>
+
+    </div>
+</main>
