@@ -39,7 +39,7 @@
     <div class="nav-links">
         <ul>
             <li><a href="/pages/about">About Us</a></li>
-            <li><a href="/pages/soups">Soups</a></li>
+            <li><a href="/pages/menu">Menu</a></li>
             <li><a href="/pages/opinions">Opinions</a></li>
         </ul>
     </div>

@@ -1,0 +1,20 @@
+[
+    {
+        "id": "s001",
+        "name": "Soup 1",
+        "inStock": true,
+        "ingredients": ["chicken", "potatoes", "corn"]
+    },
+    {
+        "id": "s002",
+        "name": "Soup 2",
+        "inStock": false,
+        "ingredients": ["beef", "corn", "carrots"]
+    }
+    {
+        "id": "s003",
+        "name": "Soup 3",
+        "inStock": false,
+        "ingredients": ["pork", "beans", "rice"]
+    }
+]

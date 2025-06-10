@@ -10,6 +10,7 @@
 </style>
 
 <section>
+    <Header />
     <Hero />
     <Picks />
     <About />
@@ -21,4 +22,5 @@
     import Picks from "./components/Home/Picks.svelte";
     import About from "./components/Home/About.svelte"
     import Footer from "./components/General/Footer.svelte"
+    import Header from "./components/General/Header.svelte";
 </script>
