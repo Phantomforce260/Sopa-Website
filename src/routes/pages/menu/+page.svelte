@@ -23,6 +23,8 @@
         font-family: playwrite-moderne;
         font-weight: normal;
         text-align: center;
+        position: relative;
+        z-index: 10;
     }
 
     #phone { padding: 5% 0 2.5%; }
