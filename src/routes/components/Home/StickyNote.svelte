@@ -3,7 +3,7 @@
 
     div {
         display: flex;
-        padding: 1.2vw;
+        padding: 1.6vw 1.2vw;
         height: 28vw;
         width: 26vw;
 
@@ -18,14 +18,7 @@
     p {
         font-family: playwrite-moderne;
         font-size: 1.2vw;
-    }
-
-    button {
-        background-color: inherit;
-        border: solid black 3px;
-        padding: 1% 3%;
-        font-family: playwrite-moderne;
-        font-size: 1.2vw;
+        text-align: center;
     }
 
     img {
@@ -35,12 +28,13 @@
 </style>
 
 <div>
-    <img src="./images/photos/{image_source}" alt="delicious soup"/>
-    <h4>Item #1</h4>
-    <p>This is a short description</p>
-    <button>Order Now</button>
+    <img src="./images/photos/{thumbnail}" alt="delicious soup"/>
+    <h4>{name}</h4>
+    <p>{description}</p>
 </div>
 
 <script>
-    export let image_source;
+    export let name;
+    export let description;
+    export let thumbnail;
 </script>

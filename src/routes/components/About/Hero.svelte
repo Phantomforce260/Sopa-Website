@@ -17,6 +17,7 @@
     }
 
     p {
+        margin-top: 5%;
         font-family: playwrite-moderne;
         font-size: 2vw;
         color: white;
@@ -26,10 +27,6 @@
 <main>
     <div class="about-main">
         <h1>About Us</h1>
-        <p>We're a small business in Philadelphia.</p>
-    </div>
-
-    <div>
-
+        <p>Coming Soon: We look forward to sharing more information about our business.</p>
     </div>
 </main>

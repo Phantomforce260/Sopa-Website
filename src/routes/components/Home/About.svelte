@@ -35,7 +35,6 @@
         z-index: 5;
         top: 26%;
         left: 38%;
-
         width: 30vw;
         height: auto;
     }

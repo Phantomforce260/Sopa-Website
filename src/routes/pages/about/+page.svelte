@@ -2,8 +2,9 @@
 
 <style>
     section {
+        height: 100vh;
         overflow-y: scroll;
-        background-color: darkgoldenrod;
+        background-image: url(/images/vfx/background_home.png);
         background-size: cover;
     }
 </style>

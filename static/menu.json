@@ -1,0 +1,29 @@
+[
+    {
+        "id": "S01",
+        "name": "Chicken Soup",
+        "image": "soup_1.png",
+        "inStock": true,
+        "description": "Soup seasoned and cooked with fresh chicken and vegetables.",
+        "ingredients": ["chicken", "potatoes", "corn"],
+        "price": 6.99
+    },
+    {
+        "id": "S02",
+        "name": "Beef Soup",
+        "image": "soup_2.png",
+        "inStock": true,
+        "description": "Soup cooked with fresh beef and vegetables.",
+        "ingredients": ["beef", "corn", "carrots"],
+        "price": 8.99
+    },
+    {
+        "id": "S03",
+        "name": "Rice and Beans",
+        "image": "soup_3.png",
+        "inStock": true,
+        "description": "Classic white rice with seasoned brown beans.",
+        "ingredients": ["beans", "rice"],
+        "price": 4.99
+    }
+]
